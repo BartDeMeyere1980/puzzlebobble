@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+
+    background-color: rgb(13, 27, 58);
+    margin:0;
+}
+
+.scorelabel{
+
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
